@@ -1,0 +1,17 @@
+body{
+    background-image: url("img/swirl_pattern.png");
+    font-size: 18px;
+    color:purple;
+}
+p{
+    width: 65%;
+    margin: 100px;
+    background-color: beige;
+}
+
+header{
+    text-align: center;
+    font-size: 50px;
+    background-color: beige;
+}
+ 

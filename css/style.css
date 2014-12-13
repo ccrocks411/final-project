@@ -42,6 +42,7 @@ h1 {
     color: #FAFAFA;
     text-align: justify;
     
+    
 
 }
 
@@ -159,6 +160,10 @@ img{
     
 }
 
+.list{
+    color: yellow;
+    font-size: 15px;
+}
 .text2{
     float:bottom;
 	margin-top:25px;
